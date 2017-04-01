@@ -1,106 +1,88 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
-        1,
-        null,
-        null,
-        null,
-        1,
-        8,
-        8,
-        8,
-        3,
-        3,
-        null,
-        null,
-        null,
-        5,
-        null,
-        null,
-        null,
-        null,
-        1,
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
         0,
         0,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        0,
-        null,
-        0,
-        0,
-        null,
-        null,
-        0,
-        0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        0,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null
+        0
       ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
-        1,
-        1,
-        null
-      ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
-        1,
-        1,
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
         0,
-        null,
-        1,
         0,
-        null,
-        null
-      ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -108,16 +90,34 @@
         0,
         0
       ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
         0,
         0
       ]
     },
-    "timestamp": 1491022682
+    "timestamp": 1491068640
   },
   "Cucumber Features": {
     "coverage": {
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
         1,
         1,
         1,
@@ -127,7 +127,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
         1,
         null,
         null,
@@ -211,16 +211,16 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/ubuntu/workspace/studentProjects/j2017/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+      "/home/ubuntu/workspace/studentProjects/j2017/MR-hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
         1,
@@ -229,6 +229,6 @@
         null
       ]
     },
-    "timestamp": 1491022569
+    "timestamp": 1491066381
   }
 }
