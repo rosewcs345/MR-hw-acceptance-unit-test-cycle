@@ -1,3 +1,20 @@
+NOTE:  The email I sent out to <beta-engineering-long-lasting-sw@googlegroups.com> erroneously mentions my editing `movies_helper.rb` when I meant `movies_helper_spec.rb`
+
+PROBLEM:  Students wrote both cucumber and rspec tests to cover the homework code.
+They wrote (in `movies_helper_spec.rb`)what appears to be thorough rspec tests for the helper method:  `movies_helper.rb`.
+Despite that, line 4 of this file does not show any coverage (???)
+This module is only given 66.67% coverage, while other students got 75% (https://github.com/rosewcs345/YX-hw-acceptance-unit-test-cycle -- when I uncommented the line), and their tests didn't directly cover this line at all.
+
+What is particularly perplexing is that when I run the coverage test on my rspec tests, my version of this test gets 100% coverage, despite considering my test to be quite weak.  When I substitute their code in my project, I still get 100%, and when I substitute my code in their project, they still get 66.67%.
+
+I haven't been able to find any significant difference between our projects that could cause this to happen, and I've swapped out code  in our `Gemfile`, `.env file`, and `rails_helper.rb` where I did find some very trivial differences.
+
+While I'm concerned about the issue regarding acceptance/unit tests vs. no unit tests, I'm particularly perplexed by the getting full credit on my version and not getting full credit on theirs.  Any ideas???
+
+
+=======================================================================================================================================
+
+
 Acceptance-Unit Test Cycle
 ===
 
